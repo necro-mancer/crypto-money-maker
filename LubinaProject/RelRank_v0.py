@@ -1,3 +1,9 @@
+#vars
+
+Ntop = 50
+NumDays = 5
+BaseCurrency = 'BTC'
+
 #imports
 
 import os
@@ -34,10 +40,6 @@ def print_words(words, n):
 		print(star.format(*row))
 
 #__main__
-
-Ntop = 500
-NumDays = 100
-BaseCurrency = 'BTC'
 
 #get CMC list of N top coins
 
