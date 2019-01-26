@@ -1,0 +1,7 @@
+#List of requirements
+#CLI: pip3 install -r ./Requirements.log
+
+pytest
+pycoingecko
+numpy
+objectpath
